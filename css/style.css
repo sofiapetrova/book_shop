@@ -74,7 +74,7 @@
             border: 1px solid seagreen;
             border-radius: 10%;
             background-color: chocolate;
-            background: url('/img/fon03.jpg') no-repeat;
+            background: url('../img/fon03.jpg') no-repeat;
             background-position: center;
             background-size: cover;
 
@@ -87,7 +87,7 @@
         }
 
         .a1:hover {
-            background: url('/img/fon02.jpg')no-repeat;
+            background: url('../img/fon02.jpg')no-repeat;
             background-position: center;
             background-size: cover;
         }
